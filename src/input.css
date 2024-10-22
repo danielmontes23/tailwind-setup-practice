@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: #187;
+}
+h1{
+    color: grey;
+}
